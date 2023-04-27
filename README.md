@@ -4,14 +4,14 @@ ChatGPT implementation terminal assistant — powered by OpenAI's API.
 
 ## Usage
 
-1. Set API key *(make keys [***here***](https://platform.openai.com/account/api-keys)):*
+1. #### Set API key *(make keys [***here***](https://platform.openai.com/account/api-keys)):*
  ```
   ❯ askgpt -k sk-sadfasdfasdfasdfasdfasdf
   
   ❯
   
  ```
-2. Prompt
+2. #### Prompt
  ```
   ❯ askgpt 'What's up bro?'
   
@@ -23,7 +23,6 @@ ChatGPT implementation terminal assistant — powered by OpenAI's API.
 
 ### Help (`-h`) output:
 ```
-
     Usage: AskGpt options_list
     Arguments: 
         prompt -> Prompt { String }
