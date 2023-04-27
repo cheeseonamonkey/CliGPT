@@ -29,7 +29,7 @@ ChatGPT implementation terminal assistant — powered by OpenAI's API.
 
     Options: 
         --verbose, -v [false] -> Enable verbose output 
-        ~~--tell, -t [false] -> Execute shell command~~
+        --tell, -t [false] -> Execute shell command
         --setApiKey, -k [false] -> Set API key 
         --help, -h -> Usage info 
 ```
